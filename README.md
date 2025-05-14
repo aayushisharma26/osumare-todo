@@ -99,7 +99,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-- **Shlok** - [GitHub](https://github.com/Shlokmonster)
+- **Aayushi** - [GitHub](https://github.com/aayushisharma26)
 
 ## Screenshots
 
