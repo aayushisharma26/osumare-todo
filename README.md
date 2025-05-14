@@ -36,8 +36,8 @@ OsumareFrontendTest/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Shlokmonster/OsumareFrontendTest.git
-   cd OsumareFrontendTest
+   git clone https://github.com/aayushisharma26/osumare-todo
+   cd osumare-todo
    ```
 
 2. **Install dependencies:**
