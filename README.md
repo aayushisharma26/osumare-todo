@@ -101,9 +101,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - **Aayushi** - [GitHub](https://github.com/aayushisharma26)
 
-## Screenshots
-
-<a href="https://ibb.co/5x5jjSyq"><img src="https://i.ibb.co/5x5jjSyq/Screenshot-2025-04-23-at-6-39-48-PM.png" alt="Screenshot-2025-04-23-at-6-39-48-PM" border="0"></a> <br>
-<a href="https://ibb.co/LBr1yKV"><img src="https://i.ibb.co/LBr1yKV/Screenshot-2025-04-23-at-6-40-29-PM.png" alt="Screenshot-2025-04-23-at-6-40-29-PM" border="0"></a> <br>
-<a href="https://ibb.co/LhQvDwz9"><img src="https://i.ibb.co/LhQvDwz9/Screenshot-2025-04-23-at-6-40-15-PM.png" alt="Screenshot-2025-04-23-at-6-40-15-PM" border="0"></a> <br>
-<a href="https://ibb.co/MkNM6Q5M"><img src="https://i.ibb.co/MkNM6Q5M/Screenshot-2025-04-23-at-6-40-01-PM.png" alt="Screenshot-2025-04-23-at-6-40-01-PM" border="0"></a><br>
